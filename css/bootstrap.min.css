@@ -5137,6 +5137,7 @@ button.close {
 
 .carousel-indicators {
     position: absolute;
+    margin-top: 2rem;
     right: 0;
     bottom: 10px;
     left: 0;
