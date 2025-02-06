@@ -140,7 +140,11 @@ img {
      max-width: 100%;
      height: auto;
 }
-
+.img-fija {
+     width: 300px;
+     height:300px;
+     object-fit: cover;
+   }
  :focus {
      outline: 0;
 }
